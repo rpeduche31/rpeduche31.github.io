@@ -13,16 +13,14 @@ function App() {
         <script
           async
           src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2816831416359590'
-          crossOrigin='anonymous'
+          crossorigin='anonymous'
         ></script>
         <ins
-          google_adtest='on'
-          className='adsbygoogle'
-          style={{display: 'inline-block', width: '300px', height: '250px'}}
+          class='adsbygoogle'
+          style={{display: 'block'}}
           data-ad-client='ca-pub-2816831416359590'
-          data-ad-slot='1905934144'
+          data-ad-slot='2625787741'
           data-ad-format='auto'
-          data-adtest='on'
           data-full-width-responsive='true'
         ></ins>
         <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
@@ -34,7 +32,7 @@ function App() {
     <script
       async
       src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2816831416359590'
-      crossOrigin='anonymous'
+      crossorigin='anonymous'
     ></script>
   );
 
