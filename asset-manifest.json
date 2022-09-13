@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.18b3a3b4.js",
-    "static/js/787.29c91ebf.chunk.js": "/static/js/787.29c91ebf.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.18b3a3b4.js.map": "/static/js/main.18b3a3b4.js.map",
-    "787.29c91ebf.chunk.js.map": "/static/js/787.29c91ebf.chunk.js.map"
+    "main.css": "/rpeduche31.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/rpeduche31.github.io/static/js/main.232b8954.js",
+    "static/js/787.29c91ebf.chunk.js": "/rpeduche31.github.io/static/js/787.29c91ebf.chunk.js",
+    "static/media/logo.svg": "/rpeduche31.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rpeduche31.github.io/index.html",
+    "main.073c9b0a.css.map": "/rpeduche31.github.io/static/css/main.073c9b0a.css.map",
+    "main.232b8954.js.map": "/rpeduche31.github.io/static/js/main.232b8954.js.map",
+    "787.29c91ebf.chunk.js.map": "/rpeduche31.github.io/static/js/787.29c91ebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.18b3a3b4.js"
+    "static/js/main.232b8954.js"
   ]
 }
